@@ -1,4 +1,4 @@
-`can ignore all folders starting with "_" as they have orginal files for time sequence diagram, object diagram, class diagram, use-case document` ==AND== `has no relation with the actual program/code itself.` 
+`can ignore all folders starting with "_" as they have orginal files for time sequence diagram, object diagram, class diagram, use-case document` AND `has no relation with the actual program/code itself.` 
 
 ![s1](https://raw.githubusercontent.com/Jegadit/JobAdministrationSystem/master/_res/files/Slide3.JPG)
 ![s1](https://raw.githubusercontent.com/Jegadit/JobAdministrationSystem/master/_res/files/Slide4.JPG)
